@@ -1,0 +1,14 @@
+C:\Users\user\CsharpProjects\TestProject\Coding_in_C\BSACalculator\BSACalculator\bin\Debug\net10.0\BSACalculator.exe
+C:\Users\user\CsharpProjects\TestProject\Coding_in_C\BSACalculator\BSACalculator\bin\Debug\net10.0\BSACalculator.deps.json
+C:\Users\user\CsharpProjects\TestProject\Coding_in_C\BSACalculator\BSACalculator\bin\Debug\net10.0\BSACalculator.runtimeconfig.json
+C:\Users\user\CsharpProjects\TestProject\Coding_in_C\BSACalculator\BSACalculator\bin\Debug\net10.0\BSACalculator.dll
+C:\Users\user\CsharpProjects\TestProject\Coding_in_C\BSACalculator\BSACalculator\bin\Debug\net10.0\BSACalculator.pdb
+C:\Users\user\CsharpProjects\TestProject\Coding_in_C\BSACalculator\BSACalculator\obj\Debug\net10.0\BSACalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\CsharpProjects\TestProject\Coding_in_C\BSACalculator\BSACalculator\obj\Debug\net10.0\BSACalculator.AssemblyInfoInputs.cache
+C:\Users\user\CsharpProjects\TestProject\Coding_in_C\BSACalculator\BSACalculator\obj\Debug\net10.0\BSACalculator.AssemblyInfo.cs
+C:\Users\user\CsharpProjects\TestProject\Coding_in_C\BSACalculator\BSACalculator\obj\Debug\net10.0\BSACalculator.csproj.CoreCompileInputs.cache
+C:\Users\user\CsharpProjects\TestProject\Coding_in_C\BSACalculator\BSACalculator\obj\Debug\net10.0\BSACalculator.dll
+C:\Users\user\CsharpProjects\TestProject\Coding_in_C\BSACalculator\BSACalculator\obj\Debug\net10.0\refint\BSACalculator.dll
+C:\Users\user\CsharpProjects\TestProject\Coding_in_C\BSACalculator\BSACalculator\obj\Debug\net10.0\BSACalculator.pdb
+C:\Users\user\CsharpProjects\TestProject\Coding_in_C\BSACalculator\BSACalculator\obj\Debug\net10.0\BSACalculator.genruntimeconfig.cache
+C:\Users\user\CsharpProjects\TestProject\Coding_in_C\BSACalculator\BSACalculator\obj\Debug\net10.0\ref\BSACalculator.dll
