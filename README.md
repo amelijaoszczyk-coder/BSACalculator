@@ -2,7 +2,7 @@ C# console app calculator for adjusting dose for patient basing on age, height a
 It calculates BMI, BSA (Body Surface area, Mosteller), IBW (Ideal Body Weight, Devine) and ABW (Adjusted Body Weight, Janmahasatian)
 This factors can help in dose personalisation for patients.
 Run
-git clone
+git clone https://github.com/amelijaoszczyk-coder/BSACalculator/tree/master
 cd BSACalculator
 dotnet run
 
